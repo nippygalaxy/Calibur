@@ -33,7 +33,7 @@ If you have added the bot to a Telegram group, we need to know the chat ID of th
 
 **Option 1: Use a @getmyid\_bot**
 
-Invite a bot named  [https://t.me/getmyid\_bot](https://t.me/getmyid\_bot) into the Telegram group, and the Chat ID will be automatically returned by the bot (_**remember to remove the bot after obtaining the Chat ID**_).
+Invite a bot named [@G](https://t.me/getmyid\_bot)[et My ID](https://t.me/getmyid\_bot) into the Telegram group, and the Chat ID will be automatically returned by the bot (_**remember to remove the bot after obtaining the Chat ID**_).
 
 <figure><img src="../.gitbook/assets/image (3).png" alt="" width="337"><figcaption></figcaption></figure>
 

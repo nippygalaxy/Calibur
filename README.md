@@ -26,6 +26,6 @@ BlockSec Phalcon is a security platform designed for all crypto projects. It not
 2. Access the platform: [https://app.blocksec.com/block](https://app.blocksec.com/block)
 3. The block module requires a subscription for use.&#x20;
    1. [Subscribe online](https://app.blocksec.com/subscribe/block/customize)
-   2. To apply for a trial, please [fill out the form to book a demo](https://calendly.com/blocksec/phalcon-collaboration).
+   2. To apply for a trial, please [fill out the form to book a demo](https://calendly.com/blocksec/phalcon-demo).
 
 ### &#x20;
