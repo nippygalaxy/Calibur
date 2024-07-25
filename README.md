@@ -6,7 +6,7 @@ BlockSec Phalcon is a security platform designed for all crypto projects. It not
 
 
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>Overview of Phalcon</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Overview of Phalcon</p></figcaption></figure>
 
 
 

@@ -86,7 +86,7 @@ Search "BotFather" on your Telegram, message [@BotFather](https://t.me/botfather
 _Your bot token is its unique identifier – store it in a secure place and only share it with people who need direct access to the bot. Everyone who has your token will have complete control over your bot._
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### How to Get the Chat ID
 
@@ -98,7 +98,7 @@ If you have added the bot to a Telegram group, we need to know the chat ID of th
 
 Invite a bot named  [https://t.me/getmyid\_bot](https://t.me/getmyid\_bot) into the Telegram group, and the Chat ID will be automatically returned by the bot (_**remember to remove the bot after obtaining the Chat ID**_).
 
-<figure><img src=".gitbook/assets/image (1).png" alt="" width="337"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="337"><figcaption></figcaption></figure>
 
 Note that, there are other similar bots available, use the one you are familiar with.
 
@@ -128,7 +128,7 @@ The message can also be sent to a direct telegram conversation with a user. Let'
 
 * Step 1: Send a message to the Telegram Bot, e.g., `hello`.
 
-<figure><img src=".gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * Step 2: Enter https://api.telegram.org/bot<mark style="color:red;">**Token**</mark>/getUpdates in your browser. Replace the red text with the API token provided by @BotFather, and you will receive the following JSON. Find the `hello` message you just sent in the returned JSON.
 
